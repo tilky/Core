@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * GhoSter AutoShipping
+ *
+ * @package        GhoSter_AutoShipping
+ * @author         GhoSter
+ * @copyright      Copyright (c) 2017, GhoSter Inc<thinghost.info>. All rights reserved
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
+    <menu>
+        <add id="GhoSter_Core::ghoster" title="GhoSter Inc" module="GhoSter_Core" sortOrder="80" resource="GhoSter_Core::ghoster" />
+    </menu>
+</config>
